@@ -163,7 +163,7 @@ export const GitHubSection: React.FC = () => {
                   </span>
                 </div>
                 <p className={`text-xs sm:text-sm ${isDark ? 'text-neutral-400' : 'text-neutral-600'}`}>
-                  {user.bio || 'Aspiring Full Stack Developer passionate about clean code & open source.'}
+                  {user.bio || 'Aspiring Python Full Stack Developer passionate about clean code & open source.'}
                 </p>
                 <div className="flex flex-wrap items-center justify-center sm:justify-start gap-3 sm:gap-4 text-[11px] sm:text-xs font-mono text-neutral-500 pt-1">
                   <span className="flex items-center gap-1">

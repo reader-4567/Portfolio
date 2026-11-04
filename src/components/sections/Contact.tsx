@@ -333,7 +333,7 @@ export const Contact: React.FC = () => {
                   </label>
                   <input
                     type="text"
-                    placeholder="e.g. Full Stack Developer Opportunity / Project Inquiry"
+                    placeholder="e.g. Python Full Stack Developer Opportunity / Project Inquiry"
                     value={formData.subject}
                     onChange={(e) =>
                       setFormData({ ...formData, subject: e.target.value })

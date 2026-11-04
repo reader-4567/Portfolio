@@ -78,7 +78,7 @@ export const Navbar: React.FC = () => {
               {PERSONAL_INFO.name}
             </span>
             <span className="font-mono text-[9px] sm:text-[10px] tracking-widest uppercase text-neutral-500 truncate">
-              Full Stack Dev
+              Python Full Stack Dev
             </span>
           </div>
         </a>

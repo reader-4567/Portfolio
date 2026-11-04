@@ -4,7 +4,7 @@ import { Project, SkillCategory, EducationItem } from '../types';
 
 export const PERSONAL_INFO = {
   name: 'Kotla Sai Kiran',
-  title: 'Aspiring Full Stack Developer',
+  title: 'Aspiring Python Full Stack Developer',
   headline: 'Building modern web experiences through code and creativity.',
   subheadline: 'Computer Science and Engineering student at Sri Indu College of Engineering and Technology, Hyderabad. Exploring frontend development, programming, databases, and practical software development through hands-on projects.',
   email: 'kotlasaikiran742@gmail.com',
@@ -14,7 +14,7 @@ export const PERSONAL_INFO = {
   githubUsername: 'reader-4567',
   githubUrl: 'https://github.com/reader-4567',
   linkedinUrl: 'https://www.linkedin.com/in/sai-kiran-kotla-68136b377',
-  status: 'Open to Software Engineering & Full Stack Roles',
+  status: 'Open to Software Engineering & Python Full Stack Roles',
   summary: `I am a Computer Science and Engineering student at Sri Indu College of Engineering and Technology, Hyderabad. I have knowledge of C, Python, Java, HTML, CSS, JavaScript, and MySQL. I enjoy building practical projects, strengthening my programming fundamentals, exploring web technologies, and using modern AI tools to support my development workflow.`
 };
 

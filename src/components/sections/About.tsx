@@ -105,7 +105,7 @@ export const About: React.FC = () => {
               <p className={isDark ? 'text-neutral-300' : 'text-neutral-700'}>
                 My goal is to become a skilled{' '}
                 <strong className={isDark ? 'text-white' : 'text-neutral-900'}>
-                  Full Stack Developer
+                  Python Full Stack Developer
                 </strong>
                 . I am continuously improving my programming and problem-solving skills, exploring web technologies, and building projects to strengthen my practical knowledge.
               </p>
@@ -152,7 +152,7 @@ export const About: React.FC = () => {
 
                 <div className="flex flex-col xs:flex-row xs:items-center justify-between py-2 border-b border-neutral-800/40 dark:border-neutral-800/40 gap-1">
                   <span className="text-neutral-500">Career Goal</span>
-                  <span className="text-left xs:text-right font-medium text-cyan-500">Full Stack Developer</span>
+                  <span className="text-left xs:text-right font-medium text-cyan-500">Python Full Stack Developer</span>
                 </div>
 
                 <div className="flex flex-col xs:flex-row xs:items-center justify-between py-2 gap-1">
